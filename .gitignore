@@ -68,6 +68,12 @@ psql/.test_env
 *env*
 # Rope project settings
 .ropeproject
+*logs/*
+*log*
+**/logs/
+s3_service/logs/
+public_api/logs/
+.s3_service/
 
 # mkdocs documentation
 /site
