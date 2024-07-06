@@ -5,15 +5,18 @@ services:
     build:
       context: ./s3_service
     env_file:
-      - ./s3_service/.env
+      - .env
     volumes:
       - ./s3_service/logs:/app/logs
 
   test_postgres:
     image: postgres:latest
     env_file:
-      - ./psql/.test_env
+      - .env
     environment:
+      POSTGRES_DB: "${POSTGRES_DB_TEST}"
+      POSTGRES_USER: "${POSTGRES_USER_TEST}"
+      POSTGRES_PASSWORD: "${POSTGRES_PASSWORD_TEST}"
       PGDATA: /var/lib/postgresql/data/pgdata
     ports:
       - "5434:5433"
