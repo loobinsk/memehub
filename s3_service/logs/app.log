@@ -1,0 +1,147 @@
+2024-07-05 16:29:02,703 - root - INFO - File /tmp/c1434e5f-8d54-45c0-86c9-bd1fbfed10b3_8ce005ad-fa42-4b74-97af-b58003aa706b_ca.png uploaded to c1434e5f-8d54-45c0-86c9-bd1fbfed10b3_8ce005ad-fa42-4b74-97af-b58003aa706b_ca.png in bucket memehub-public-bucket
+2024-07-05 16:29:07,773 - root - INFO - File /tmp/070ffeda-3fc6-4ff5-ac40-63caf4799e10_ca.png uploaded to 070ffeda-3fc6-4ff5-ac40-63caf4799e10_ca.png in bucket memehub-public-bucket
+2024-07-05 16:29:35,730 - root - INFO - File /tmp/8be2baa1-12ce-42b0-9a3d-656fcf460e2c_ca.png uploaded to 8be2baa1-12ce-42b0-9a3d-656fcf460e2c_ca.png in bucket memehub-public-bucket
+2024-07-05 16:29:45,021 - root - INFO - File /tmp/19510a27-fb96-40ec-a05d-08a18e2b3922_6b2a517d-d768-49ca-8ee3-1d1c5b8e6da1_ca.png uploaded to 19510a27-fb96-40ec-a05d-08a18e2b3922_6b2a517d-d768-49ca-8ee3-1d1c5b8e6da1_ca.png in bucket memehub-public-bucket
+2024-07-05 16:30:01,907 - root - INFO - File /tmp/d3d08789-863a-4418-9d27-f5c164928236_98966b47-939d-46bc-8f17-f59e323c1fc7_ca.png uploaded to d3d08789-863a-4418-9d27-f5c164928236_98966b47-939d-46bc-8f17-f59e323c1fc7_ca.png in bucket memehub-public-bucket
+2024-07-05 16:42:14,045 - root - INFO - File /tmp/61992976-1dde-465c-be4e-752e0be08071_323fd38e-36e9-4ea0-84ee-f59aa005d043_ca.png uploaded to 61992976-1dde-465c-be4e-752e0be08071_323fd38e-36e9-4ea0-84ee-f59aa005d043_ca.png in bucket memehub-public-bucket
+2024-07-05 16:42:34,367 - root - INFO - File /tmp/081d4238-e528-4275-93a2-a446246a994d_0a68a2f5-5b78-475a-a321-516fe14284b1_ca.png uploaded to 081d4238-e528-4275-93a2-a446246a994d_0a68a2f5-5b78-475a-a321-516fe14284b1_ca.png in bucket memehub-public-bucket
+2024-07-05 16:43:25,046 - root - INFO - File /tmp/bee6c069-a724-4c25-ab08-750d0e495f9e_274054ee-a402-45b7-8366-aa6b09e75c91_ca.png uploaded to bee6c069-a724-4c25-ab08-750d0e495f9e_274054ee-a402-45b7-8366-aa6b09e75c91_ca.png in bucket memehub-public-bucket
+2024-07-05 16:51:40,229 - root - INFO - File /tmp/b0de0aba-8eb9-4e42-a7f3-13773c034f1a_8c36e204-f86e-4b0c-a71b-84b649fb1611_Снимок экрана от 2024-07-04 22-11-31.png uploaded to b0de0aba-8eb9-4e42-a7f3-13773c034f1a_8c36e204-f86e-4b0c-a71b-84b649fb1611_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-05 16:51:44,984 - root - INFO - File /tmp/4f5b39b6-bd6a-44cb-acba-9bab1b22093f_39bb246e-4d7c-4922-adbe-376b07158439_Снимок экрана от 2024-07-04 22-11-31.png uploaded to 4f5b39b6-bd6a-44cb-acba-9bab1b22093f_39bb246e-4d7c-4922-adbe-376b07158439_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-05 16:57:30,217 - root - INFO - started b0de0aba-8eb9-4e42-a7f3-13773c034f1a_8c36e204-f86e-4b0c-a71b-84b649fb1611_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-05 16:57:30,622 - root - INFO - File b0de0aba-8eb9-4e42-a7f3-13773c034f1a_8c36e204-f86e-4b0c-a71b-84b649fb1611_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket
+2024-07-05 16:58:24,473 - root - INFO - started 4f5b39b6-bd6a-44cb-acba-9bab1b22093f_39bb246e-4d7c-4922-adbe-376b07158439_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-05 16:58:24,767 - root - INFO - File 4f5b39b6-bd6a-44cb-acba-9bab1b22093f_39bb246e-4d7c-4922-adbe-376b07158439_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket
+2024-07-05 17:00:04,456 - root - INFO - File /tmp/772f16a8-a189-468c-9605-144af713d656_d54a87f5-e7f0-40b5-b7fc-7f632704551c_game.py uploaded to 772f16a8-a189-468c-9605-144af713d656_d54a87f5-e7f0-40b5-b7fc-7f632704551c_game.py in bucket memehub-public-bucket
+2024-07-05 17:00:08,284 - root - INFO - started 772f16a8-a189-468c-9605-144af713d656_d54a87f5-e7f0-40b5-b7fc-7f632704551c_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-05 17:00:08,602 - root - INFO - File 772f16a8-a189-468c-9605-144af713d656_d54a87f5-e7f0-40b5-b7fc-7f632704551c_game.py deleted from bucket memehub-public-bucket
+2024-07-06 08:10:36,765 - root - INFO - File /tmp/f3da0e6c-7e50-4a9d-85ec-a79dc28082da_2deb3627-38f6-4848-b14e-a9972f6b2595_game.py uploaded to f3da0e6c-7e50-4a9d-85ec-a79dc28082da_2deb3627-38f6-4848-b14e-a9972f6b2595_game.py in bucket memehub-public-bucket
+2024-07-06 08:10:42,111 - root - INFO - File /tmp/a932df71-4d5d-43a4-8997-7b9317c24354_616bd2e7-a62b-49e1-84bf-8855ba5f43fd_game.py uploaded to a932df71-4d5d-43a4-8997-7b9317c24354_616bd2e7-a62b-49e1-84bf-8855ba5f43fd_game.py in bucket memehub-public-bucket
+2024-07-06 08:11:59,116 - root - INFO - File /tmp/974eeb9b-9046-4813-a17c-438718a33b12_bb55d1db-36d2-478c-ae4e-47f2b89f6fbf_game.py uploaded to 974eeb9b-9046-4813-a17c-438718a33b12_bb55d1db-36d2-478c-ae4e-47f2b89f6fbf_game.py in bucket memehub-public-bucket
+2024-07-06 08:12:15,350 - root - INFO - File /tmp/4430a910-bdf3-4c8f-b175-a341189f6f44_55602426-2e0e-426f-9332-83241483e8f9_game.py uploaded to 4430a910-bdf3-4c8f-b175-a341189f6f44_55602426-2e0e-426f-9332-83241483e8f9_game.py in bucket memehub-public-bucket
+2024-07-06 08:12:32,618 - root - INFO - File /tmp/888bf16d-1d15-407d-8edc-be5dc6ca30d8_2d8672b3-8da7-4d44-9340-6e57055d7d9f_game.py uploaded to 888bf16d-1d15-407d-8edc-be5dc6ca30d8_2d8672b3-8da7-4d44-9340-6e57055d7d9f_game.py in bucket memehub-public-bucket
+2024-07-06 08:12:55,392 - root - INFO - File /tmp/dcbf02d8-3f5f-4c3b-8ac8-be9923f5082c_ca3a2aca-96ab-4315-b04e-b13d6a6ee33c_game.py uploaded to dcbf02d8-3f5f-4c3b-8ac8-be9923f5082c_ca3a2aca-96ab-4315-b04e-b13d6a6ee33c_game.py in bucket memehub-public-bucket
+2024-07-06 08:35:03,170 - root - INFO - File /tmp/b8504cce-5c3b-4c3b-989a-b4b272ebf7f7_fecd1707-1b59-42be-a25f-56635738244e_ca.png uploaded to b8504cce-5c3b-4c3b-989a-b4b272ebf7f7_fecd1707-1b59-42be-a25f-56635738244e_ca.png in bucket memehub-public-bucket
+2024-07-06 08:35:44,276 - root - INFO - File /tmp/21eb23fe-b8d4-4edf-9305-51c26882d242_510efe2b-b949-4821-beee-4a7b31e0a232_ca.png uploaded to 21eb23fe-b8d4-4edf-9305-51c26882d242_510efe2b-b949-4821-beee-4a7b31e0a232_ca.png in bucket memehub-public-bucket
+2024-07-06 08:36:00,208 - root - INFO - File /tmp/f27d416e-86e3-4a63-ad21-d34798c2c886_dd660822-faf9-4688-8e71-3ab5333d53aa_ca.png uploaded to f27d416e-86e3-4a63-ad21-d34798c2c886_dd660822-faf9-4688-8e71-3ab5333d53aa_ca.png in bucket memehub-public-bucket
+2024-07-06 08:36:10,511 - root - INFO - File /tmp/11ab7741-9392-4842-9e1e-d02416b1d5fa_24eb632b-1a68-4479-abe2-0cb66cf69ce2_ca.png uploaded to 11ab7741-9392-4842-9e1e-d02416b1d5fa_24eb632b-1a68-4479-abe2-0cb66cf69ce2_ca.png in bucket memehub-public-bucket
+2024-07-06 08:36:46,070 - root - INFO - File /tmp/a2b94d7e-62f7-45b4-9010-ba1efd74f5d2_ca.png uploaded to a2b94d7e-62f7-45b4-9010-ba1efd74f5d2_ca.png in bucket memehub-public-bucket
+2024-07-06 08:39:05,635 - root - INFO - File /tmp/5a38dc68-ded2-4dcd-a48f-028565fb57f3_game.py uploaded to 5a38dc68-ded2-4dcd-a48f-028565fb57f3_game.py in bucket memehub-public-bucket
+2024-07-06 08:39:30,463 - root - INFO - started 5a38dc68-ded2-4dcd-a48f-028565fb57f3_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 08:39:30,724 - root - INFO - File 5a38dc68-ded2-4dcd-a48f-028565fb57f3_game.py deleted from bucket memehub-public-bucket
+2024-07-06 08:43:53,341 - root - INFO - File /tmp/7378bb91-1b56-4863-8314-c3eda0b2e968_ca.png uploaded to 7378bb91-1b56-4863-8314-c3eda0b2e968_ca.png in bucket memehub-public-bucket
+2024-07-06 08:43:57,154 - root - INFO - File /tmp/1b97262e-f413-4bcb-a2ea-9c374762b642_game.py uploaded to 1b97262e-f413-4bcb-a2ea-9c374762b642_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:01,493 - root - INFO - File /tmp/67b74e4e-1cf0-4d2d-987b-64c77749a1e6_Снимок экрана от 2024-07-04 22-11-31.png uploaded to 67b74e4e-1cf0-4d2d-987b-64c77749a1e6_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-06 08:44:20,583 - root - INFO - File /tmp/ca926dc6-70c8-4f52-aab7-75010a45ffae_game.py uploaded to ca926dc6-70c8-4f52-aab7-75010a45ffae_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:21,815 - root - INFO - File /tmp/092bfafc-067f-4a13-9da3-e3103e3564e0_game.py uploaded to 092bfafc-067f-4a13-9da3-e3103e3564e0_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:22,659 - root - INFO - File /tmp/cbf05c64-bd06-4135-a5e9-275f618307df_game.py uploaded to cbf05c64-bd06-4135-a5e9-275f618307df_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:23,635 - root - INFO - File /tmp/dcb61257-75c3-42fb-883d-2111a283bcad_game.py uploaded to dcb61257-75c3-42fb-883d-2111a283bcad_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:24,238 - root - INFO - File /tmp/ae50c236-837e-478b-b153-1f3d65bc13a3_game.py uploaded to ae50c236-837e-478b-b153-1f3d65bc13a3_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:24,860 - root - INFO - File /tmp/67d36d9d-c2d4-4b5a-9e6c-88c5d1a14bc0_game.py uploaded to 67d36d9d-c2d4-4b5a-9e6c-88c5d1a14bc0_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:25,405 - root - INFO - File /tmp/ac8527aa-2dc0-4e43-ae00-44e0c3267d27_game.py uploaded to ac8527aa-2dc0-4e43-ae00-44e0c3267d27_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:25,949 - root - INFO - File /tmp/b55ff25f-a40a-46b8-8287-1db303619773_game.py uploaded to b55ff25f-a40a-46b8-8287-1db303619773_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:26,493 - root - INFO - File /tmp/65490726-2075-4919-9956-d9b1cb078dc4_game.py uploaded to 65490726-2075-4919-9956-d9b1cb078dc4_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:26,992 - root - INFO - File /tmp/485997b3-bce1-4fee-af19-c4e978d0c7ea_game.py uploaded to 485997b3-bce1-4fee-af19-c4e978d0c7ea_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:27,488 - root - INFO - File /tmp/050a4474-af54-43f1-959a-c23d81322161_game.py uploaded to 050a4474-af54-43f1-959a-c23d81322161_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:28,126 - root - INFO - File /tmp/eb692b73-2a5a-44d4-a2b9-0b77c961d197_game.py uploaded to eb692b73-2a5a-44d4-a2b9-0b77c961d197_game.py in bucket memehub-public-bucket
+2024-07-06 08:44:28,643 - root - INFO - File /tmp/279ca481-2c9a-4d58-9e62-29b198ec56ac_game.py uploaded to 279ca481-2c9a-4d58-9e62-29b198ec56ac_game.py in bucket memehub-public-bucket
+2024-07-06 08:55:10,584 - root - INFO - File /tmp/276be062-fd26-46e0-b14a-fefc1aedb6d9_ca.png uploaded to 276be062-fd26-46e0-b14a-fefc1aedb6d9_ca.png in bucket memehub-public-bucket
+2024-07-06 08:56:01,105 - root - INFO - File /tmp/5e7478de-1646-4162-817e-623f7344b1c9_game.py uploaded to 5e7478de-1646-4162-817e-623f7344b1c9_game.py in bucket memehub-public-bucket
+2024-07-06 09:10:28,838 - root - INFO - started 5e7478de-1646-4162-817e-623f7344b1c9_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:10:30,182 - root - INFO - File 5e7478de-1646-4162-817e-623f7344b1c9_game.py deleted from bucket memehub-public-bucket
+2024-07-06 09:14:58,950 - root - INFO - File /tmp/b3d55edc-d8ce-409a-840e-e53a78e2fbd8_game.py uploaded to b3d55edc-d8ce-409a-840e-e53a78e2fbd8_game.py in bucket memehub-public-bucket
+2024-07-06 09:15:11,338 - root - INFO - started b3d55edc-d8ce-409a-840e-e53a78e2fbd8_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:15:11,615 - root - INFO - File b3d55edc-d8ce-409a-840e-e53a78e2fbd8_game.py deleted from bucket memehub-public-bucket
+2024-07-06 09:16:48,328 - root - INFO - File /tmp/8af43a2d-15a3-4aee-ba20-fec7ca73bcf0_game.py uploaded to 8af43a2d-15a3-4aee-ba20-fec7ca73bcf0_game.py in bucket memehub-public-bucket
+2024-07-06 09:19:23,949 - root - INFO - File /tmp/cd49de57-c9a8-4494-aa42-bc6100b1c3bd_Снимок экрана от 2024-07-04 22-11-31.png uploaded to cd49de57-c9a8-4494-aa42-bc6100b1c3bd_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-06 09:25:06,347 - root - INFO - File /tmp/401ff266-e6d9-42b0-aff8-912303f50f42_Снимок экрана от 2024-07-04 22-11-31.png uploaded to 401ff266-e6d9-42b0-aff8-912303f50f42_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-06 09:25:42,954 - root - INFO - started 401ff266-e6d9-42b0-aff8-912303f50f42_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:25:43,239 - root - INFO - File 401ff266-e6d9-42b0-aff8-912303f50f42_Снимок экрана от 2024-07-04 22-11-31.png deleted from bucket memehub-public-bucket
+2024-07-06 09:25:43,810 - root - INFO - File /tmp/b790651a-f836-482b-982e-86c0a3084af5_Снимок экрана от 2024-07-04 22-11-31.png uploaded to b790651a-f836-482b-982e-86c0a3084af5_Снимок экрана от 2024-07-04 22-11-31.png in bucket memehub-public-bucket
+2024-07-06 09:26:21,476 - root - INFO - File /tmp/c4e79b17-f48e-467d-bd39-cf8dd08caab8_game.py uploaded to c4e79b17-f48e-467d-bd39-cf8dd08caab8_game.py in bucket memehub-public-bucket
+2024-07-06 09:26:55,366 - root - INFO - started c4e79b17-f48e-467d-bd39-cf8dd08caab8_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:26:55,630 - root - INFO - File c4e79b17-f48e-467d-bd39-cf8dd08caab8_game.py deleted from bucket memehub-public-bucket
+2024-07-06 09:26:56,149 - root - INFO - File /tmp/b800f983-9c66-42b2-b9a7-1400c1cfb165_ca.png uploaded to b800f983-9c66-42b2-b9a7-1400c1cfb165_ca.png in bucket memehub-public-bucket
+2024-07-06 09:35:46,961 - root - INFO - started b800f983-9c66-42b2-b9a7-1400c1cfb165_ca.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:35:47,431 - root - INFO - File b800f983-9c66-42b2-b9a7-1400c1cfb165_ca.png deleted from bucket memehub-public-bucket
+2024-07-06 09:35:47,817 - root - INFO - File /tmp/18cadfd4-c93f-456c-880d-9ef5463b32a9_game.py uploaded to 18cadfd4-c93f-456c-880d-9ef5463b32a9_game.py in bucket memehub-public-bucket
+2024-07-06 09:35:57,362 - root - INFO - started 18cadfd4-c93f-456c-880d-9ef5463b32a9_game.py deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 09:35:57,655 - root - INFO - File 18cadfd4-c93f-456c-880d-9ef5463b32a9_game.py deleted from bucket memehub-public-bucket
+2024-07-06 09:36:13,177 - root - INFO - File /tmp/5faf9d5d-094f-495b-b3a4-d3e6932fff7f_game.py uploaded to 5faf9d5d-094f-495b-b3a4-d3e6932fff7f_game.py in bucket memehub-public-bucket
+2024-07-06 13:56:16,231 - root - INFO - File /tmp/012a1ab6-e4d4-41b7-b232-1315c8afebbe_ca.png uploaded to 012a1ab6-e4d4-41b7-b232-1315c8afebbe_ca.png in bucket memehub-public-bucket
+2024-07-06 14:00:05,293 - root - INFO - File /tmp/5b5d8790-5ff6-47b0-aa81-5a462e114252_test.png uploaded to 5b5d8790-5ff6-47b0-aa81-5a462e114252_test.png in bucket memehub-public-bucket
+2024-07-06 14:00:06,010 - root - INFO - File /tmp/0fbd648c-3802-4704-a9c6-fb24934f415e_test.png uploaded to 0fbd648c-3802-4704-a9c6-fb24934f415e_test.png in bucket memehub-public-bucket
+2024-07-06 14:01:59,217 - root - INFO - File /tmp/94a93d1e-e419-49c5-9091-2bca3a6d1c3f_test.png uploaded to 94a93d1e-e419-49c5-9091-2bca3a6d1c3f_test.png in bucket memehub-public-bucket
+2024-07-06 14:01:59,943 - root - INFO - File /tmp/541cceac-5719-4647-90af-09b1911eb50a_test.png uploaded to 541cceac-5719-4647-90af-09b1911eb50a_test.png in bucket memehub-public-bucket
+2024-07-06 14:04:31,412 - root - INFO - File /tmp/f33e0cf4-6d17-471f-93c9-a6e6003539f0_test.png uploaded to f33e0cf4-6d17-471f-93c9-a6e6003539f0_test.png in bucket memehub-public-bucket
+2024-07-06 14:04:31,955 - root - INFO - File /tmp/01bceb92-577f-40a0-b240-99c691450ab8_test.png uploaded to 01bceb92-577f-40a0-b240-99c691450ab8_test.png in bucket memehub-public-bucket
+2024-07-06 14:04:55,996 - root - INFO - File /tmp/adbf91b2-dd75-4ac7-a97c-9a3dacbbc81e_test.png uploaded to adbf91b2-dd75-4ac7-a97c-9a3dacbbc81e_test.png in bucket memehub-public-bucket
+2024-07-06 14:04:56,523 - root - INFO - File /tmp/5b8ada64-ba2b-4d7b-a1d3-ef242c6a926f_test.png uploaded to 5b8ada64-ba2b-4d7b-a1d3-ef242c6a926f_test.png in bucket memehub-public-bucket
+2024-07-06 14:05:36,874 - root - INFO - File /tmp/cc0cfaa7-8ef6-45cc-b49b-4ea58c133082_test.png uploaded to cc0cfaa7-8ef6-45cc-b49b-4ea58c133082_test.png in bucket memehub-public-bucket
+2024-07-06 14:05:37,396 - root - INFO - File /tmp/517ad7e6-8474-437a-a71d-f082373f54b0_test.png uploaded to 517ad7e6-8474-437a-a71d-f082373f54b0_test.png in bucket memehub-public-bucket
+2024-07-06 14:05:48,477 - root - INFO - File /tmp/83cac20f-d82f-446f-9904-e604d8b4f088_test.png uploaded to 83cac20f-d82f-446f-9904-e604d8b4f088_test.png in bucket memehub-public-bucket
+2024-07-06 14:05:49,018 - root - INFO - File /tmp/99311cb8-aa10-4c35-9149-dbcf7a0d655d_test.png uploaded to 99311cb8-aa10-4c35-9149-dbcf7a0d655d_test.png in bucket memehub-public-bucket
+2024-07-06 14:06:25,252 - root - INFO - File /tmp/834e2584-14a7-4008-8372-ccd46e479c41_test.png uploaded to 834e2584-14a7-4008-8372-ccd46e479c41_test.png in bucket memehub-public-bucket
+2024-07-06 14:06:25,816 - root - INFO - File /tmp/d8582385-0cd2-451c-878f-93a9e4131bb0_test.png uploaded to d8582385-0cd2-451c-878f-93a9e4131bb0_test.png in bucket memehub-public-bucket
+2024-07-06 14:06:37,463 - root - INFO - File /tmp/1766cf47-0701-47bb-8fda-3a0e236783aa_test.png uploaded to 1766cf47-0701-47bb-8fda-3a0e236783aa_test.png in bucket memehub-public-bucket
+2024-07-06 14:06:37,974 - root - INFO - File /tmp/eef16512-b4e4-43fa-ad95-22b7d4a98f26_test.png uploaded to eef16512-b4e4-43fa-ad95-22b7d4a98f26_test.png in bucket memehub-public-bucket
+2024-07-06 14:07:50,015 - root - INFO - File /tmp/e269941d-5cf7-4499-b840-d252d076ec57_test.png uploaded to e269941d-5cf7-4499-b840-d252d076ec57_test.png in bucket memehub-public-bucket
+2024-07-06 14:07:50,501 - root - INFO - File /tmp/6c1a3fff-dc3a-4d1e-bd60-cd5170e8f317_test.png uploaded to 6c1a3fff-dc3a-4d1e-bd60-cd5170e8f317_test.png in bucket memehub-public-bucket
+2024-07-06 14:08:16,929 - root - INFO - File /tmp/446b7b1f-5698-43f0-845b-44b81ff43fdd_test.png uploaded to 446b7b1f-5698-43f0-845b-44b81ff43fdd_test.png in bucket memehub-public-bucket
+2024-07-06 14:08:17,431 - root - INFO - File /tmp/4a26d476-4d27-4e5f-91f6-af949c7a25a0_test.png uploaded to 4a26d476-4d27-4e5f-91f6-af949c7a25a0_test.png in bucket memehub-public-bucket
+2024-07-06 14:08:46,978 - root - INFO - File /tmp/856eb03c-3515-4c93-8c6f-16b06299b073_test.png uploaded to 856eb03c-3515-4c93-8c6f-16b06299b073_test.png in bucket memehub-public-bucket
+2024-07-06 14:08:47,461 - root - INFO - File /tmp/a249a86f-584a-46fe-9af8-d8709f9e084f_test.png uploaded to a249a86f-584a-46fe-9af8-d8709f9e084f_test.png in bucket memehub-public-bucket
+2024-07-06 14:11:45,718 - root - INFO - File /tmp/30935403-0672-4ac7-bbad-ca951601be3f_test.png uploaded to 30935403-0672-4ac7-bbad-ca951601be3f_test.png in bucket memehub-public-bucket
+2024-07-06 14:15:10,173 - root - INFO - File /tmp/71caed0a-31ca-44c7-bb3c-044f23f935bd_test.png uploaded to 71caed0a-31ca-44c7-bb3c-044f23f935bd_test.png in bucket memehub-public-bucket
+2024-07-06 14:17:22,033 - root - INFO - File /tmp/aad0e7a9-70b5-4aa2-852b-6f7904e25b01_test.png uploaded to aad0e7a9-70b5-4aa2-852b-6f7904e25b01_test.png in bucket memehub-public-bucket
+2024-07-06 15:10:22,498 - root - INFO - File /tmp/73e44baf-ce89-4490-beaa-2415d868d6ab_test.png uploaded to 73e44baf-ce89-4490-beaa-2415d868d6ab_test.png in bucket memehub-public-bucket
+2024-07-06 15:10:35,251 - root - INFO - File /tmp/6c122c45-a410-485e-9477-c427d8d35ee4_test.png uploaded to 6c122c45-a410-485e-9477-c427d8d35ee4_test.png in bucket memehub-public-bucket
+2024-07-06 15:11:17,576 - root - INFO - File /tmp/cb4a673a-91c5-4f99-96bb-5b7824ddaab8_test.png uploaded to cb4a673a-91c5-4f99-96bb-5b7824ddaab8_test.png in bucket memehub-public-bucket
+2024-07-06 15:11:32,556 - root - INFO - File /tmp/2786c8e9-f0e3-45c7-8768-2699417e1cc5_test.png uploaded to 2786c8e9-f0e3-45c7-8768-2699417e1cc5_test.png in bucket memehub-public-bucket
+2024-07-06 15:12:28,563 - root - INFO - File /tmp/6d4d249b-0e33-40d0-b673-841bbde44e05_test.png uploaded to 6d4d249b-0e33-40d0-b673-841bbde44e05_test.png in bucket memehub-public-bucket
+2024-07-06 15:12:48,169 - root - INFO - File /tmp/2d4719f7-55ee-4513-8ec4-6d97db8e5bef_test.png uploaded to 2d4719f7-55ee-4513-8ec4-6d97db8e5bef_test.png in bucket memehub-public-bucket
+2024-07-06 15:13:11,412 - root - INFO - File /tmp/64f84106-eade-4352-b72e-653d98be47bb_test.png uploaded to 64f84106-eade-4352-b72e-653d98be47bb_test.png in bucket memehub-public-bucket
+2024-07-06 15:13:27,343 - root - INFO - File /tmp/25d06428-d3c1-4d03-ae29-1945345ece1f_test.png uploaded to 25d06428-d3c1-4d03-ae29-1945345ece1f_test.png in bucket memehub-public-bucket
+2024-07-06 15:15:51,519 - root - INFO - File /tmp/f4a911aa-d4d4-4522-8835-e3d01048dd69_test.png uploaded to f4a911aa-d4d4-4522-8835-e3d01048dd69_test.png in bucket memehub-public-bucket
+2024-07-06 15:17:39,565 - root - INFO - File /tmp/c0c6afeb-c93d-4639-b844-3ab0687187cb_test.png uploaded to c0c6afeb-c93d-4639-b844-3ab0687187cb_test.png in bucket memehub-public-bucket
+2024-07-06 15:23:17,152 - root - INFO - File /tmp/efb1694e-e090-4457-873e-6e85a697aa2c_test.png uploaded to efb1694e-e090-4457-873e-6e85a697aa2c_test.png in bucket memehub-public-bucket
+2024-07-06 15:23:46,134 - root - INFO - File /tmp/85c4f1c9-410a-4e0b-aea0-89fffaeafa00_test.png uploaded to 85c4f1c9-410a-4e0b-aea0-89fffaeafa00_test.png in bucket memehub-public-bucket
+2024-07-06 15:24:03,367 - root - INFO - File /tmp/15920739-2304-429b-9534-81fd0d6a1ecf_test.png uploaded to 15920739-2304-429b-9534-81fd0d6a1ecf_test.png in bucket memehub-public-bucket
+2024-07-06 15:24:55,537 - root - INFO - File /tmp/68600769-efab-4fa4-ba21-26f2bce6bca9_test.png uploaded to 68600769-efab-4fa4-ba21-26f2bce6bca9_test.png in bucket memehub-public-bucket
+2024-07-06 15:25:14,017 - root - INFO - File /tmp/b2168fa6-292b-436c-a51a-08677bc11610_test.png uploaded to b2168fa6-292b-436c-a51a-08677bc11610_test.png in bucket memehub-public-bucket
+2024-07-06 15:25:33,865 - root - INFO - File /tmp/3b84a6f3-b887-4d47-9856-08beb57ac88d_test.png uploaded to 3b84a6f3-b887-4d47-9856-08beb57ac88d_test.png in bucket memehub-public-bucket
+2024-07-06 15:25:43,121 - root - INFO - File /tmp/a7447f3f-c62b-479b-a9e1-72714a494318_test.png uploaded to a7447f3f-c62b-479b-a9e1-72714a494318_test.png in bucket memehub-public-bucket
+2024-07-06 15:26:03,524 - root - INFO - File /tmp/18eefe07-a008-4a5f-bc8c-2b501920d979_test.png uploaded to 18eefe07-a008-4a5f-bc8c-2b501920d979_test.png in bucket memehub-public-bucket
+2024-07-06 15:26:50,525 - root - INFO - File /tmp/5ac366ed-a5d1-4551-b346-07b3d2c238e3_test.png uploaded to 5ac366ed-a5d1-4551-b346-07b3d2c238e3_test.png in bucket memehub-public-bucket
+2024-07-06 15:26:59,573 - root - INFO - File /tmp/ea36dadd-5ba2-4fa6-bd5a-f8b45d0fa5ec_test.png uploaded to ea36dadd-5ba2-4fa6-bd5a-f8b45d0fa5ec_test.png in bucket memehub-public-bucket
+2024-07-06 15:27:25,517 - root - INFO - File /tmp/d1517247-17fd-4785-aeb6-899e4972466b_test.png uploaded to d1517247-17fd-4785-aeb6-899e4972466b_test.png in bucket memehub-public-bucket
+2024-07-06 15:28:04,856 - root - INFO - File /tmp/5bf2562b-9aa5-451b-9fe1-5d1c6c175a2a_test.png uploaded to 5bf2562b-9aa5-451b-9fe1-5d1c6c175a2a_test.png in bucket memehub-public-bucket
+2024-07-06 15:28:17,976 - root - INFO - File /tmp/97bfe412-7d5b-48e1-9828-262fb952d2ee_test.png uploaded to 97bfe412-7d5b-48e1-9828-262fb952d2ee_test.png in bucket memehub-public-bucket
+2024-07-06 15:29:20,571 - root - INFO - File /tmp/252c10f6-98fe-4a83-8e89-8ed5d7d204c1_test.png uploaded to 252c10f6-98fe-4a83-8e89-8ed5d7d204c1_test.png in bucket memehub-public-bucket
+2024-07-06 15:29:37,719 - root - INFO - File /tmp/756311ee-46e8-42f2-a17f-43fc8f1ccab3_test.png uploaded to 756311ee-46e8-42f2-a17f-43fc8f1ccab3_test.png in bucket memehub-public-bucket
+2024-07-06 15:29:49,576 - root - INFO - File /tmp/c8e63c89-94a7-44a6-a4b3-614eb430eb2e_test.png uploaded to c8e63c89-94a7-44a6-a4b3-614eb430eb2e_test.png in bucket memehub-public-bucket
+2024-07-06 15:30:09,586 - root - INFO - File /tmp/68d3e6b3-a02a-4c70-a2c6-c1dd7c69123a_test.png uploaded to 68d3e6b3-a02a-4c70-a2c6-c1dd7c69123a_test.png in bucket memehub-public-bucket
+2024-07-06 15:30:35,827 - root - INFO - File /tmp/65059a7c-e6ea-484f-bb3c-4f8e088122e6_test.png uploaded to 65059a7c-e6ea-484f-bb3c-4f8e088122e6_test.png in bucket memehub-public-bucket
+2024-07-06 15:30:43,833 - root - INFO - File /tmp/dce12709-a4f3-46e7-a6c9-a622669555d1_test.png uploaded to dce12709-a4f3-46e7-a6c9-a622669555d1_test.png in bucket memehub-public-bucket
+2024-07-06 15:32:27,118 - root - INFO - File /tmp/971b8e4d-d911-4b63-9fd0-a6ad53fca42f_test.png uploaded to 971b8e4d-d911-4b63-9fd0-a6ad53fca42f_test.png in bucket memehub-public-bucket
+2024-07-06 16:05:02,910 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:05:03,555 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:06:08,583 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:06:09,015 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:07:21,766 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:07:22,166 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:08:08,755 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:08:09,021 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:08:24,065 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:08:24,413 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:08:45,755 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:08:46,026 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:10:06,544 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:10:07,006 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:10:17,576 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:10:18,614 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:10:27,556 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:10:27,944 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 16:11:02,206 - root - INFO - started uudi_test.png deleted from bucket memehub-public-bucket for https://s3.storage.selcloud.ru
+2024-07-06 16:11:02,489 - root - INFO - File uudi_test.png deleted from bucket memehub-public-bucket
+2024-07-06 17:33:01,405 - root - INFO - File /tmp/c4961422-3ff3-4ba0-ae96-f5765818668b_game.py uploaded to c4961422-3ff3-4ba0-ae96-f5765818668b_game.py in bucket memehub-public-bucket
