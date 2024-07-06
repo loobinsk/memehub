@@ -16,6 +16,10 @@ MemeHub предоставляет следующие функции:
 
 ---
 
+## Примечания
+
+MemeHub протестирован в работе с хранилищем от Selectel, но S3 клиент может работать и с другими S3-хранилищами. Просто укажите соответствующие переменные в вашем файле `.env`.
+
 ## Требования
 
 Для установки и запуска MemeHub необходимо наличие следующих компонентов:
@@ -28,3 +32,42 @@ MemeHub предоставляет следующие функции:
 ## Установка и запуск
 
 Чтобы установить и запустить MemeHub, выполните следующие шаги:
+
+1. Клонируйте репозиторий и перейдите в него:
+    ```bash
+    git clone https://github.com/loobinsk/memehub.git && cd memehub
+    ```
+
+2. Создайте файл `.env` в корне проекта и добавьте в него следующие переменные:
+    ```dotenv
+    POSTGRES_DB=some_arg
+    POSTGRES_USER=some_arg
+    POSTGRES_PASSWORD=some_arg
+
+    S3_PUBLIC_DOMAIN=some_arg
+    S3_ENDPOINT_URL=some_arg
+    S3_ACCESS_KEY=some_arg
+    S3_SECRET_KEY=some_arg
+    S3_BUCKET_NAME=some_arg
+
+    POSTGRES_DB_TEST=some_arg
+    POSTGRES_USER_TEST=some_arg
+    POSTGRES_PASSWORD_TEST=some_arg
+    ```
+
+3. Запустите контейнеры с помощью Docker Compose:
+    ```bash
+    docker-compose up -d --build
+    ```
+
+4. Откройте браузер и перейдите по адресу:
+    ```
+    http://localhost:8000/docs
+    ```
+
+5. Для запуска тестов выполните следующую команду:
+    ```bash
+    pytest
+    ```
+
+Это позволит вам установить и запустить MemeHub на вашей локальной машине с необходимыми переменными окружения.
